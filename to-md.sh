@@ -1,0 +1,1 @@
+docker run -v ~/Downloads/:/pdfs dibz15/marker_docker:latest python convert_single.py /Books/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf /Books/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.md --parallel_factor 2 --max_pages 10

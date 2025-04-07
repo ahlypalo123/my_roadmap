@@ -1,0 +1,18 @@
+{
+  "markerEndpoint": "localhost:8501",
+  "pythonEndpoint": "localhost:8001",
+  "createFolder": true,
+  "deleteOriginal": false,
+  "extractContent": "all",
+  "writeMetadata": false,
+  "movePDFtoFolder": false,
+  "createAssetSubfolder": true,
+  "apiEndpoint": "selfhosted",
+  "apiKey": "",
+  "langs": "en",
+  "forceOCR": false,
+  "paginate": false,
+  "stripExistingOCR": false,
+  "useLLM": false,
+  "skipCache": false
+}
