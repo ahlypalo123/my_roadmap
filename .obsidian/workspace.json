@@ -53,16 +53,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собес/concurrency.md",
+                "file": "CS/Alek OS/(5) КАК РАБОТАЕТ СТЕК  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "concurrency"
+              "title": "(5) КАК РАБОТАЕТ СТЕК  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube"
+            }
+          },
+          {
+            "id": "c2b74bb188abcf88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Вычислительный конвейер — Википедия.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вычислительный конвейер — Википедия"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,10 +235,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f673925b762a84",
+  "active": "c2b74bb188abcf88",
   "lastOpenFiles": [
-    "Паттерны ООП/Паттерны ООП.md",
+    "CS/Внеочередное исполнение — Википедия.md",
+    "CS/Алгоритмы планирования процессов в операционных системах.md",
+    "CS/Alek OS/(5) КАК РАБОТАЕТ СТЕК  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
+    "CS/Alek OS/(5) КАК РАБОТАЕТ ПРОЦЕССОР  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
+    "CS/Alek OS/(5) КАК РАБОТАЕТ ПАМЯТЬ КОМПЬЮТЕРА  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
+    "CS/Как работает память компьютера.md",
+    "CS/Вычислительный конвейер — Википедия.md",
+    "Java/Java Memory Model.md",
+    "Собес/concurrency.md",
     "Паттерны ООП/Порождающие паттерны проектирования.md",
+    "Паттерны ООП/Паттерны ООП.md",
     "Паттерны ООП/Структурные паттерны проектирования.md",
     "Паттерны ООП/Поведенческие.md",
     "Паттерны корпоративных приложений/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
@@ -235,15 +258,11 @@
     "БД/Типы индексов.md",
     "БД/Нормализация отношений. Шесть нормальных форм.md",
     "БД/БД.md",
-    "CS/Алгоритмы планирования процессов в операционных системах.md",
     "CS/Branch Prediction.md",
-    "CS/Как работает память компьютера.md",
-    "Java/Глубокое погружение в Java Memory Model.md",
-    "Clippings",
+    "CS/Alek OS",
     "Java/Class Loader.md",
     "Java/Collection API.png",
     "JVM",
-    "Собес/concurrency.md",
     "CS",
     "Untitled.canvas",
     "Untitled.md",
@@ -264,11 +283,6 @@
     "Собес/images/SQL",
     "Собес/images/Placeholder.txt",
     "Собес/images",
-    "Собес/examples/src/main/resources/log4j.properties",
-    "Собес/examples/README.md",
-    "Собес/xml.md",
-    "Собес/web.md",
-    "Собес/uml.md",
-    "Собес/test.md"
+    "Собес/examples/src/main/resources/log4j.properties"
   ]
 }
