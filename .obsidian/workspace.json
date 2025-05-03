@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development.md",
+                "file": "Architecture/TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development.md",
                 "mode": "source",
                 "source": false
               },
@@ -220,18 +220,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de1eb2730ae56dff",
+  "active": "99f673925b762a84",
   "lastOpenFiles": [
-    "Clippings/Пример гексагональной архитектуры на Java.md",
-    "Clippings/Стратегические паттерны DDD.md",
-    "Clippings/TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development.md",
+    "Architecture/Пример гексагональной архитектуры на Java.md",
+    "Architecture/Стратегические паттерны DDD.md",
+    "Architecture/TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development.md",
     "RabbitMQ/Про типы очередей в RabbitMQ.md",
     "Clippings/DDD простыми словами.md",
     "Java/Внутренний мир Java NIO.md",
     "RabbitMQ",
     "Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
     "Kafka/Load Balancing in Apache Kafka.md",
-    "Clippings",
+    "Architecture",
     "Java/Object Class in Java.md",
     "Java/Multithreading/Demystifying Java wait(), notify(), and join() methods for multithreading An in-depth look.md",
     "Java/Multithreading/Daemon Threads in Java.md",
