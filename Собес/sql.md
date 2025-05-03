@@ -1,4 +1,4 @@
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)
 
 # SQL
 + [Что такое _«SQL»_?](#Что-такое-sql)
@@ -557,5 +557,5 @@ GROUP BY download_count;
 + [Википедия](https://ru.wikipedia.org/wiki/SQL)
 + [Quizful](http://www.quizful.net/interview/sql)
 
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)
 

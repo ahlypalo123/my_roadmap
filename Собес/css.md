@@ -1,4 +1,4 @@
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)
 
 # Основы CSS
 + [Что такое _«CSS»_?](#Что-такое-css)
@@ -151,4 +151,4 @@ p {
 + [htmlbook.ru](http://stepbystep.htmlbook.ru/?id=43)
 + [itchief.ru](https://itchief.ru/lessons/html-and-css/css-selectors)
 
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)

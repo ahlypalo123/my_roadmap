@@ -1,4 +1,4 @@
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)
 
 # JDBC
 + [Что такое _JDBC_?](#Что-такое-jdbc)
@@ -282,4 +282,4 @@ public vois runStoredProcedure(final Connection connection) throws Exception {
 + [Документация к пакету java.sql](https://docs.oracle.com/javase/7/docs/api/java/sql/package-summary.html)
 + [Википедия - Уровень изолированности транзакции](https://ru.wikipedia.org/wiki/Уровень_изолированности_транзакций)
 
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)

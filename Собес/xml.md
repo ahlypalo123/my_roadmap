@@ -1,4 +1,4 @@
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)
 
 # XML
 + [Что такое _XML_?](#Что-такое-xml)
@@ -188,4 +188,4 @@ XSLT создавался для применения в _XSL (eXtensible Styles
 + [CIT Forum](http://citforum.ru/internet/xnamsps/index.shtml#ns-decl)
 + [Quizful](http://www.quizful.net/interview/java/xml-and-parsers)
 
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)

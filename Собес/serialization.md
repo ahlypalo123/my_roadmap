@@ -1,4 +1,4 @@
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)
 
 # Сериализация
 + [Что такое _«сериализация»_?](#Что-такое-сериализация)
@@ -155,4 +155,4 @@ public class Person implements java.io.Serializable,
 + [JavaRush](http://bit.ly/1xwRA2D)
 + [Записки трезвого практика](http://www.skipy.ru/technics/serialization.html)
 
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)

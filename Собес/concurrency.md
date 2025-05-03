@@ -1,4 +1,4 @@
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)
 
 # Многопоточность
 + [Расскажите о модели памяти Java?](#Расскажите-о-модели-памяти-java)
@@ -1136,4 +1136,4 @@ class QueueReentrantLock<T> {
 + [Хабрахабр - Правильный Singleton в Java](https://habrahabr.ru/post/129494/)
 + [duct-tape-architect.ru](http://www.duct-tape-architect.ru/?p=294#3__171_187___Java_HotSpot_JVM6)
 
-[Вопросы для собеседования](README.md)
+[Вопросы для собеседования](Вопросы%20для%20собеседования%20Java%20Developer.md)
