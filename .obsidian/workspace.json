@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Внутренний мир Java NIO.md",
+                "file": "Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Внутренний мир Java NIO"
+              "title": "Kafka за 20 минут. Ментальная модель и как с ней работать"
             }
           },
           {
@@ -222,9 +222,18 @@
   },
   "active": "99f673925b762a84",
   "lastOpenFiles": [
-    "Собес/java8.md",
-    "Java/Внутренний мир Java NIO.md",
+    "Kafka/Load Balancing in Apache Kafka.md",
+    "Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
+    "Clippings",
+    "Java/Object Class in Java.md",
+    "Java/Multithreading/Demystifying Java wait(), notify(), and join() methods for multithreading An in-depth look.md",
     "Java/Multithreading/Daemon Threads in Java.md",
+    "Java/Multithreading/Справочник по синхронизаторам java.util.concurrent.md",
+    "Java/Multithreading/Синхронизаторы/CyclicBarrier.md",
+    "Java/Multithreading/Синхронизаторы/CountDownLatch.md",
+    "Java/Multithreading/Синхронизаторы/Semaphore.md",
+    "Java/Внутренний мир Java NIO.md",
+    "Собес/java8.md",
     "Java/Class Loader.md",
     "Собес/reactive.md",
     "Собес/concurrency.md",
@@ -240,16 +249,8 @@
     "CS/Внеочередное исполнение — Википедия.md",
     "Java/Class loaders/Platform ClassLoader.md",
     "Java/Class loaders/Boostrap ClassLoader.md",
-    "Java/Class loaders/Application ClassLoader.md",
     "Java/Class loaders",
-    "Java/Java Memory Model.md",
     "Java/Collection API.png",
-    "Spring/Hibernate/Transaction Propagation and Isolation in Spring @Transactional.md",
-    "Spring/Hibernate/Hibernate Demo.md",
-    "Spring/Bean Scopes/4. Web Aware Scopes.md",
-    "Spring/Bean Scopes/3. Prototype Scope.md",
-    "Spring/Bean Scopes/2. Singleton Scope.md",
-    "Spring/Spring Bean Scopes.md",
     "Spring/Bean Scopes",
     "Spring/Hibernate/Propogation Types",
     "Java/Multithreading/Синхронизаторы",
@@ -258,7 +259,6 @@
     "Books/Gets_-_Java_Concurrencyna_praktike_2020.pdf",
     "Books/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
     "Books",
-    "Gets_-_Java_Concurrencyna_praktike_2020.pdf.crdownload",
     "Untitled.canvas",
     "Собес/done.png",
     "Собес/images/SQL/row_number-sql-rank-function.png",
