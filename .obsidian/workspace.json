@@ -53,26 +53,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Alek OS/(5) КАК РАБОТАЕТ СТЕК  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
+                "file": "Паттерны ООП/Поведенческие/Шаблонный метод.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(5) КАК РАБОТАЕТ СТЕК  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube"
+              "title": "Шаблонный метод"
             }
           },
           {
-            "id": "c2b74bb188abcf88",
+            "id": "fcf78d9ba46e9ef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Вычислительный конвейер — Википедия.md",
-                "mode": "preview",
+                "file": "Spring/Spring Bean Scopes.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вычислительный конвейер — Википедия"
+              "title": "Spring Bean Scopes"
             }
           }
         ],
@@ -235,41 +235,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2b74bb188abcf88",
+  "active": "fcf78d9ba46e9ef1",
   "lastOpenFiles": [
-    "CS/Внеочередное исполнение — Википедия.md",
-    "CS/Алгоритмы планирования процессов в операционных системах.md",
-    "CS/Alek OS/(5) КАК РАБОТАЕТ СТЕК  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
-    "CS/Alek OS/(5) КАК РАБОТАЕТ ПРОЦЕССОР  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
-    "CS/Alek OS/(5) КАК РАБОТАЕТ ПАМЯТЬ КОМПЬЮТЕРА  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
-    "CS/Как работает память компьютера.md",
-    "CS/Вычислительный конвейер — Википедия.md",
+    "Spring/Hibernate/Hibernate Demo.md",
+    "Spring/Spring Bean Scopes.md",
+    "Spring/Области видимости бина.md",
+    "Spring/Hibernate/Transaction Propagation and Isolation in Spring @Transactional.md",
     "Java/Java Memory Model.md",
-    "Собес/concurrency.md",
-    "Паттерны ООП/Порождающие паттерны проектирования.md",
-    "Паттерны ООП/Паттерны ООП.md",
-    "Паттерны ООП/Структурные паттерны проектирования.md",
-    "Паттерны ООП/Поведенческие.md",
-    "Паттерны корпоративных приложений/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
-    "Паттерны корпоративных приложений/Паттерны микросервисной архитектуры/Saga.md",
-    "Паттерны корпоративных приложений/Паттерны микросервисной архитектуры/CQRS.md",
-    "Паттерны корпоративных приложений/Паттерны микросервисной архитектуры/API GATEWAY.md",
+    "Clippings",
+    "БД/Нормализация отношений. Шесть нормальных форм.md",
+    "2025-04-27.md",
     "БД/Уровни изоляции транзакций в БД.md",
     "БД/Типы индексов.md",
-    "БД/Нормализация отношений. Шесть нормальных форм.md",
-    "БД/БД.md",
-    "CS/Branch Prediction.md",
-    "CS/Alek OS",
+    "Паттерны корпоративных приложений/Паттерны микросервисной архитектуры/API GATEWAY.md",
+    "Паттерны корпоративных приложений/Паттерны микросервисной архитектуры/Saga.md",
+    "Паттерны корпоративных приложений/Паттерны микросервисной архитектуры/CQRS.md",
+    "Clippings/Основы CQRS.md",
+    "Паттерны ООП/Порождающие/Абстрактная фабрика.md",
+    "Spring/Spring потрошитель.md",
+    "Clippings/Spring-потрошитель.md",
+    "Med/Что такое FHIR.md",
+    "Med/Что такое EHR.md",
     "Java/Class Loader.md",
     "Java/Collection API.png",
+    "CS/Alek OS/(5) КАК РАБОТАЕТ ПАМЯТЬ КОМПЬЮТЕРА  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
+    "CS/Alek OS/(5) КАК РАБОТАЕТ ПРОЦЕССОР  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
+    "CS/Alek OS/(5) КАК РАБОТАЕТ СТЕК  ОСНОВЫ ПРОГРАММИРОВАНИЯ - YouTube.md",
+    "CS/Алгоритмы планирования процессов в операционных системах.md",
+    "CS/Внеочередное исполнение — Википедия.md",
+    "CS/Branch Prediction.md",
+    "CS/Вычислительный конвейер — Википедия.md",
+    "Паттерны корпоративных приложений/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
+    "CS/Alek OS",
     "JVM",
     "CS",
     "Untitled.canvas",
-    "Untitled.md",
-    "Собес/core.md",
-    "Собес/css.md",
     "Собес/done.png",
-    "2025-04-27.md",
     "Собес/con4md.jar",
     "Собес/images/SQL/row_number-sql-rank-function.png",
     "Собес/images/SQL/row_number-example.png",
@@ -282,7 +283,6 @@
     "Собес/images/SQL/Placeholder.txt",
     "Собес/images/SQL",
     "Собес/images/Placeholder.txt",
-    "Собес/images",
-    "Собес/examples/src/main/resources/log4j.properties"
+    "Собес/images"
   ]
 }
