@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
+                "file": "RabbitMQ/Про типы очередей в RabbitMQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka за 20 минут. Ментальная модель и как с ней работать"
+              "title": "Про типы очередей в RabbitMQ"
             }
           },
           {
@@ -222,8 +222,11 @@
   },
   "active": "99f673925b762a84",
   "lastOpenFiles": [
-    "Kafka/Load Balancing in Apache Kafka.md",
+    "Java/Внутренний мир Java NIO.md",
+    "RabbitMQ",
+    "RabbitMQ/Про типы очередей в RabbitMQ.md",
     "Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
+    "Kafka/Load Balancing in Apache Kafka.md",
     "Clippings",
     "Java/Object Class in Java.md",
     "Java/Multithreading/Demystifying Java wait(), notify(), and join() methods for multithreading An in-depth look.md",
@@ -232,7 +235,6 @@
     "Java/Multithreading/Синхронизаторы/CyclicBarrier.md",
     "Java/Multithreading/Синхронизаторы/CountDownLatch.md",
     "Java/Multithreading/Синхронизаторы/Semaphore.md",
-    "Java/Внутренний мир Java NIO.md",
     "Собес/java8.md",
     "Java/Class Loader.md",
     "Собес/reactive.md",
@@ -247,8 +249,6 @@
     "CS/Алгоритмы планирования процессов в операционных системах.md",
     "CS/Branch Prediction.md",
     "CS/Внеочередное исполнение — Википедия.md",
-    "Java/Class loaders/Platform ClassLoader.md",
-    "Java/Class loaders/Boostrap ClassLoader.md",
     "Java/Class loaders",
     "Java/Collection API.png",
     "Spring/Bean Scopes",
@@ -258,7 +258,6 @@
     "БД/Нормальные формы",
     "Books/Gets_-_Java_Concurrencyna_praktike_2020.pdf",
     "Books/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
-    "Books",
     "Untitled.canvas",
     "Собес/done.png",
     "Собес/images/SQL/row_number-sql-rank-function.png",
