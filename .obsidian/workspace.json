@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RabbitMQ/Про типы очередей в RabbitMQ.md",
+                "file": "Clippings/TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Про типы очередей в RabbitMQ"
+              "title": "TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development"
             }
           },
           {
@@ -220,11 +220,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f673925b762a84",
+  "active": "de1eb2730ae56dff",
   "lastOpenFiles": [
+    "Clippings/Пример гексагональной архитектуры на Java.md",
+    "Clippings/Стратегические паттерны DDD.md",
+    "Clippings/TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development.md",
+    "RabbitMQ/Про типы очередей в RabbitMQ.md",
+    "Clippings/DDD простыми словами.md",
     "Java/Внутренний мир Java NIO.md",
     "RabbitMQ",
-    "RabbitMQ/Про типы очередей в RabbitMQ.md",
     "Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
     "Kafka/Load Balancing in Apache Kafka.md",
     "Clippings",
@@ -246,9 +250,6 @@
     "Паттерны ООП/Порождающие паттерны проектирования.md",
     "Паттерны ООП/Поведенческие паттерны проектирования.md",
     "Паттерны ООП/Поведенческие/Итератор.md",
-    "CS/Алгоритмы планирования процессов в операционных системах.md",
-    "CS/Branch Prediction.md",
-    "CS/Внеочередное исполнение — Википедия.md",
     "Java/Class loaders",
     "Java/Collection API.png",
     "Spring/Bean Scopes",
