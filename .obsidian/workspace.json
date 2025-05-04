@@ -13,55 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development.md",
+                "file": "Собес/core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development"
+              "title": "core"
             }
           },
           {
-            "id": "118e5498d980ddcd",
+            "id": "67a3aa8d5432f85f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собес/db.md",
+                "file": "Собес/core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "db"
+              "title": "core"
             }
           },
           {
-            "id": "57be1773321f98b6",
+            "id": "4f3c276b973739eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны ООП/Поведенческие/Шаблонный метод.md",
-                "mode": "source",
+                "file": "Java/Java Memory Model.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шаблонный метод"
-            }
-          },
-          {
-            "id": "fcf78d9ba46e9ef1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Gets_-_Java_Concurrencyna_praktike_2020.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Gets_-_Java_Concurrencyna_praktike_2020"
+              "title": "Java Memory Model"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,16 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f673925b762a84",
+  "active": "4f3c276b973739eb",
   "lastOpenFiles": [
+    "Java/Внутренний мир Java NIO.md",
+    "Собес/core.md",
+    "Собес/db.md",
+    "Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
     "Architecture/Пример гексагональной архитектуры на Java.md",
-    "Architecture/Стратегические паттерны DDD.md",
     "Architecture/TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development.md",
+    "Architecture/Стратегические паттерны DDD.md",
     "RabbitMQ/Про типы очередей в RabbitMQ.md",
     "Clippings/DDD простыми словами.md",
-    "Java/Внутренний мир Java NIO.md",
     "RabbitMQ",
-    "Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
     "Kafka/Load Balancing in Apache Kafka.md",
     "Architecture",
     "Java/Object Class in Java.md",
@@ -248,8 +239,6 @@
     "Собес/Вопросы для собеседования Java Developer.md",
     "Паттерны ООП/Структурные паттерны проектирования.md",
     "Паттерны ООП/Порождающие паттерны проектирования.md",
-    "Паттерны ООП/Поведенческие паттерны проектирования.md",
-    "Паттерны ООП/Поведенческие/Итератор.md",
     "Java/Class loaders",
     "Java/Collection API.png",
     "Spring/Bean Scopes",
