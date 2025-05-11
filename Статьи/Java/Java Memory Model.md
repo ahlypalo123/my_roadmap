@@ -23,7 +23,7 @@ tags:
 [[2. Введение. JMM]]
 [[3. Введение. Memory Ordering]]
 [[4. Введение. Sequential Consistency]]
-[[5. Введение. Sequential Consistency-Data Race Free]]
+[[5. Введение. Data race]]
 [[6. Введение. Sequential Consistency. Why]]
 [[7. JMM. Synchronization Order]]
 [[8. JMM. Happens-before. теория]]
