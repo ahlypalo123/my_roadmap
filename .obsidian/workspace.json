@@ -53,14 +53,12 @@
             "id": "35c57d56f78c92e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Собес/concurrency.md",
-                "mode": "source",
-                "source": false
+                "file": "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf"
               },
-              "icon": "lucide-file",
-              "title": "concurrency"
+              "icon": "lucide-file-text",
+              "title": "kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie"
             }
           },
           {
@@ -239,10 +237,12 @@
   },
   "active": "35c57d56f78c92e3",
   "lastOpenFiles": [
-    "Статьи/CS/Чем отличается процесс от потока.md",
+    "Книги/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
+    "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Собес/concurrency.md",
-    "Собес/html.md",
     "done.md",
+    "Статьи/CS/Чем отличается процесс от потока.md",
+    "Собес/html.md",
     "Собес/Вопросы для собеседования Java Developer.md",
     "Собес/java8.md",
     "Статьи/Java/Java Memory Model.md",
@@ -265,7 +265,6 @@
     "Статьи/Java/JMM/2. Введение. JMM.md",
     "Статьи/Java/JMM/1. Введение. контекст.md",
     "Safe Publication",
-    "Курсы/(12) Alek OS - YouTube.md",
     "Статьи/Java/JMM",
     "Статьи",
     "Курсы",
@@ -275,7 +274,6 @@
     "Статьи/Java/Class loaders",
     "Статьи/Java/Collection API.png",
     "Статьи/Java/Spring/Bean Scopes",
-    "Статьи/Java/Spring/Hibernate/Propogation Types",
     "Untitled.canvas",
     "Собес/done.png",
     "Собес/images/SQL/row_number-sql-rank-function.png",
