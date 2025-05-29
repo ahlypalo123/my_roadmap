@@ -53,12 +53,14 @@
             "id": "35c57d56f78c92e3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf"
+                "file": "Статьи/БД/Индексы/4. GiST.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie"
+              "icon": "lucide-file",
+              "title": "4. GiST"
             }
           },
           {
@@ -67,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/CS/Чем отличается процесс от потока.md",
+                "file": "Clippings/How to Catch Deserialization Errors in Spring-Kafka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Чем отличается процесс от потока"
+              "title": "How to Catch Deserialization Errors in Spring-Kafka"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,13 +237,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35c57d56f78c92e3",
+  "active": "0a91253b5b96950a",
   "lastOpenFiles": [
-    "Статьи/БД/Как устроено индексирование баз данных.md",
-    "Статьи/БД/Индексы/6. LSM-дерево.md",
     "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
-    "Статьи/БД/Индексы/5. Полнотекстовый индекс.md",
+    "Clippings/How to Catch Deserialization Errors in Spring-Kafka.md",
+    "Статьи/БД/Как устроено индексирование баз данных.md",
     "Статьи/БД/Индексы/4. GiST.md",
+    "Статьи/CS/Чем отличается процесс от потока.md",
+    "Статьи/БД/Индексы/6. LSM-дерево.md",
+    "Статьи/БД/Индексы/5. Полнотекстовый индекс.md",
     "Статьи/БД/Индексы/3. Хэш-индекс.md",
     "Статьи/БД/Индексы/2. Bitmap-индексирование.md",
     "Статьи/БД/Индексы/1. B-дерево.md",
@@ -251,7 +255,6 @@
     "Курсы/(12) Alek OS - YouTube.md",
     "Собес/concurrency.md",
     "done.md",
-    "Статьи/CS/Чем отличается процесс от потока.md",
     "Собес/html.md",
     "Собес/Вопросы для собеседования Java Developer.md",
     "Собес/java8.md",
@@ -265,7 +268,6 @@
     "Статьи/Java/JMM/12. Cache Coherence.md",
     "Статьи/Java/JMM/11. Happens-before is about actions.md",
     "Статьи/Java/JMM/10. Safe Publication, RA semantics.md",
-    "Статьи/Java/JMM/9. JMM. Happens-before. практика.md",
     "Safe Publication",
     "Статьи/Java/JMM",
     "Статьи",
