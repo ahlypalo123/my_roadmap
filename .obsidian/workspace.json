@@ -69,10 +69,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf"
+                "file": "Книги/Эрик_Эванс_Предметно_ориентированное.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie"
+              "title": "Эрик_Эванс_Предметно_ориентированное"
             }
           }
         ],
@@ -237,11 +237,12 @@
   },
   "active": "0a91253b5b96950a",
   "lastOpenFiles": [
+    "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
+    "Книги/Эрик_Эванс_Предметно_ориентированное.pdf",
     "Статьи/Java/Spring/How to Catch Deserialization Errors in Spring-Kafka.md",
     "Статьи/Java/Spring/Hibernate/Propogation Types/3.1. REQUIRED Propagation.md",
     "Статьи/Java/Spring/Hibernate/Propogation Types/3.2. SUPPORTS Propagation.md",
     "Статьи/Java/Spring/Hibernate/Propogation Types/3.3. MANDATORY Propagation.md",
-    "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Статьи/БД/Как устроено индексирование баз данных.md",
     "Статьи/БД/Индексы/4. GiST.md",
     "Статьи/CS/Чем отличается процесс от потока.md",
@@ -266,7 +267,6 @@
     "Статьи/Java/JMM/15. Как JMM обеспечивает консистентный memory order. подводим итоги.md",
     "Статьи/Java/JMM/14. Memory Barriers.md",
     "Статьи/Java/JMM/13. Eventual Visibility.md",
-    "Статьи/Java/JMM/12. Cache Coherence.md",
     "Safe Publication",
     "Статьи/Java/JMM",
     "Статьи",
