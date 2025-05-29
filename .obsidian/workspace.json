@@ -67,14 +67,12 @@
             "id": "0a91253b5b96950a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Clippings/How to Catch Deserialization Errors in Spring-Kafka.md",
-                "mode": "source",
-                "source": false
+                "file": "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf"
               },
-              "icon": "lucide-file",
-              "title": "How to Catch Deserialization Errors in Spring-Kafka"
+              "icon": "lucide-file-text",
+              "title": "kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie"
             }
           }
         ],
@@ -239,8 +237,11 @@
   },
   "active": "0a91253b5b96950a",
   "lastOpenFiles": [
+    "Статьи/Java/Spring/How to Catch Deserialization Errors in Spring-Kafka.md",
+    "Статьи/Java/Spring/Hibernate/Propogation Types/3.1. REQUIRED Propagation.md",
+    "Статьи/Java/Spring/Hibernate/Propogation Types/3.2. SUPPORTS Propagation.md",
+    "Статьи/Java/Spring/Hibernate/Propogation Types/3.3. MANDATORY Propagation.md",
     "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
-    "Clippings/How to Catch Deserialization Errors in Spring-Kafka.md",
     "Статьи/БД/Как устроено индексирование баз данных.md",
     "Статьи/БД/Индексы/4. GiST.md",
     "Статьи/CS/Чем отличается процесс от потока.md",
@@ -266,8 +267,6 @@
     "Статьи/Java/JMM/14. Memory Barriers.md",
     "Статьи/Java/JMM/13. Eventual Visibility.md",
     "Статьи/Java/JMM/12. Cache Coherence.md",
-    "Статьи/Java/JMM/11. Happens-before is about actions.md",
-    "Статьи/Java/JMM/10. Safe Publication, RA semantics.md",
     "Safe Publication",
     "Статьи/Java/JMM",
     "Статьи",
