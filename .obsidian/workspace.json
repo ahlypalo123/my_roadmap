@@ -25,28 +25,12 @@
             "id": "67a3aa8d5432f85f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Собес/core.md",
-                "mode": "source",
-                "source": false
+                "file": "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf"
               },
-              "icon": "lucide-file",
-              "title": "core"
-            }
-          },
-          {
-            "id": "4f3c276b973739eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/concurrency.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "concurrency"
+              "icon": "lucide-file-text",
+              "title": "kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie"
             }
           },
           {
@@ -67,16 +51,18 @@
             "id": "0a91253b5b96950a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Книги/Эрик_Эванс_Предметно_ориентированное.pdf"
+                "file": "Статьи/БД/Индексы/4. GiST.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Эрик_Эванс_Предметно_ориентированное"
+              "icon": "lucide-file",
+              "title": "4. GiST"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,16 +221,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a91253b5b96950a",
+  "active": "67a3aa8d5432f85f",
   "lastOpenFiles": [
+    "Собес/core.md",
+    "Clippings/Ключевые аспекты при выборе базы данных для вашего приложения.md",
     "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Книги/Эрик_Эванс_Предметно_ориентированное.pdf",
+    "Книги/Gets_-_Java_Concurrencyna_praktike_2020.pdf",
+    "Собес/concurrency.md",
+    "Статьи/БД/Индексы/4. GiST.md",
     "Статьи/Java/Spring/How to Catch Deserialization Errors in Spring-Kafka.md",
     "Статьи/Java/Spring/Hibernate/Propogation Types/3.1. REQUIRED Propagation.md",
     "Статьи/Java/Spring/Hibernate/Propogation Types/3.2. SUPPORTS Propagation.md",
     "Статьи/Java/Spring/Hibernate/Propogation Types/3.3. MANDATORY Propagation.md",
     "Статьи/БД/Как устроено индексирование баз данных.md",
-    "Статьи/БД/Индексы/4. GiST.md",
     "Статьи/CS/Чем отличается процесс от потока.md",
     "Статьи/БД/Индексы/6. LSM-дерево.md",
     "Статьи/БД/Индексы/5. Полнотекстовый индекс.md",
@@ -255,7 +245,6 @@
     "Clippings",
     "Книги/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
     "Курсы/(12) Alek OS - YouTube.md",
-    "Собес/concurrency.md",
     "done.md",
     "Собес/html.md",
     "Собес/Вопросы для собеседования Java Developer.md",
@@ -266,13 +255,10 @@
     "Статьи/Java/JMM/16. JMM. Atomicity.md",
     "Статьи/Java/JMM/15. Как JMM обеспечивает консистентный memory order. подводим итоги.md",
     "Статьи/Java/JMM/14. Memory Barriers.md",
-    "Статьи/Java/JMM/13. Eventual Visibility.md",
     "Safe Publication",
     "Статьи/Java/JMM",
     "Статьи",
     "Курсы",
-    "Статьи/RabbitMQ",
-    "Статьи/Architecture",
     "Статьи/Java/Collection API.png",
     "Untitled.canvas",
     "Собес/done.png",
