@@ -11,12 +11,14 @@
             "id": "de1eb2730ae56dff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf"
+                "file": "Собес/core.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie"
+              "icon": "lucide-file",
+              "title": "core"
             }
           },
           {
@@ -25,26 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/Java/Spring/Spring потрошитель.md",
+                "file": "Собес/core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring потрошитель"
+              "title": "core"
+            }
+          },
+          {
+            "id": "4f3c276b973739eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/concurrency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "concurrency"
             }
           },
           {
             "id": "35c57d56f78c92e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Статьи/БД/Индексы/4. GiST.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "4. GiST"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -53,15 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/БД/Индексы/4. GiST.md",
+                "file": "Статьи/CS/Чем отличается процесс от потока.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. GiST"
+              "title": "Чем отличается процесс от потока"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 599.5
   },
   "right": {
     "id": "25add4749e52e043",
@@ -220,18 +237,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de1eb2730ae56dff",
+  "active": "3f88ea101efe1f66",
   "lastOpenFiles": [
-    "Собес/core.md",
-    "Статьи/Java/Spring/Spring потрошитель.md",
-    "Статьи/Java/Spring/Hibernate/Transaction Propagation and Isolation in Spring @Transactional.md",
-    "Книги/Эрик_Эванс_Предметно_ориентированное.pdf",
-    "Статьи/Паттерны ООП/Паттерны проектирования.md",
-    "Статьи/Паттерны ООП/Структурные паттерны проектирования.md",
-    "Статьи/Паттерны ООП/Порождающие паттерны проектирования.md",
-    "Статьи/Паттерны ООП/Поведенческие паттерны проектирования.md",
+    "Статьи/Java/Spring/Hibernate/Hibernate Lifecycle.md",
     "Статьи/Java/Spring/Hibernate/Overview of JPAHibernate Cascade Types.md",
-    "Статьи/Java/Spring/Cascade Types",
+    "Статьи/Java/Spring/How to Catch Deserialization Errors in Spring-Kafka.md",
+    "Статьи/Паттерны ООП/Паттерны проектирования.md",
+    "Статьи/БД/Как устроено индексирование баз данных.md",
+    "Статьи/БД/Ключевые аспекты при выборе базы данных для вашего приложения.md",
+    "Статьи/БД/Индексы/6. LSM-дерево.md",
+    "Статьи/БД/Индексы/5. Полнотекстовый индекс.md",
+    "Статьи/БД/Индексы/4. GiST.md",
+    "Статьи/БД/Индексы/2. Bitmap-индексирование.md",
+    "Статьи/БД/Индексы/3. Хэш-индекс.md",
+    "Статьи/БД/Индексы/1. B-дерево.md",
+    "Статьи/БД/Индексы",
     "Статьи/Java/Spring/Cascade Types/3.9. CascadeType.SAVE_UPDATE.md",
     "Статьи/Java/Spring/Cascade Types/3.8. CascadeType.REPLICATE.md",
     "Статьи/Java/Spring/Cascade Types/3.7. CascadeType.REFRESH.md",
@@ -241,22 +261,20 @@
     "Статьи/Java/Spring/Cascade Types/3.3. CascadeType.MERGE.md",
     "Статьи/Java/Spring/Cascade Types/3.2. CascadeType.PERSIST.md",
     "Статьи/Java/Spring/Cascade Types/3.1. CascadeType.ALL.md",
-    "Статьи/Java/Spring/Hibernate/Hibernate Lifecycle.md",
-    "Статьи/Java/Spring/Hibernate/Hibernate Demo.md",
-    "Статьи/Java/Spring/Spring Bean Scopes.md",
-    "Статьи/Java/Spring/How to Catch Deserialization Errors in Spring-Kafka.md",
+    "Статьи/Java/Spring/Cascade Types",
+    "Книги/Эрик_Эванс_Предметно_ориентированное.pdf",
     "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
-    "Статьи/БД/Ключевые аспекты при выборе базы данных для вашего приложения.md",
-    "Книги/Gets_-_Java_Concurrencyna_praktike_2020.pdf",
-    "Собес/concurrency.md",
-    "Статьи/БД/Индексы/4. GiST.md",
-    "Статьи/Java/Spring/Hibernate/Propogation Types/3.1. REQUIRED Propagation.md",
-    "Статьи/БД/Индексы",
-    "Clippings",
+    "Статьи/Java/Garbage Collection in Java – What is GC and How it Works in the JVM.md",
+    "Статьи/Java/Управление памятью Java.md",
     "Книги/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
+    "Собес/concurrency.md",
+    "done.md",
+    "Статьи/CS/Чем отличается процесс от потока.md",
     "Safe Publication",
     "Статьи/Java/JMM",
     "Статьи",
+    "Курсы",
+    "Clippings",
     "Статьи/Java/Collection API.png",
     "Untitled.canvas",
     "Собес/done.png",
