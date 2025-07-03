@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/Java/Class Loader.md",
+                "file": "Clippings/Архитектура виртуальной машины Java объяснение для начинающих.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class Loader"
+              "title": "Архитектура виртуальной машины Java объяснение для начинающих"
             }
           }
         ],
@@ -211,12 +211,21 @@
   },
   "active": "dd55229dc740b2c0",
   "lastOpenFiles": [
+    "1_toxRItfjzwJZrnEag3NJ-A.webp",
+    "1_tYgnIx00WSpzZ_3SGA50pg.webp",
+    "1_I3PkT6Ku7yo6DrTUK4DzwA.webp",
+    "1_QoeX36beLMpDNJjfuqthyw.webp",
+    "1_eKCDVZet4d2MWlf79sKIwQ.webp",
+    "Собес/jvm.md",
+    "Clippings/Архитектура виртуальной машины Java объяснение для начинающих.md",
+    "Собес/core.md",
+    "Статьи/Java/Варим байткод на кухне JVM.md",
+    "Статьи/Java/Garbage Collection in Java – What is GC and How it Works in the JVM.md",
     "Статьи/Java/Управление памятью Java.md",
+    "Статьи/Java/Class Loader.md",
     "conflict-files-obsidian-git.md",
     "Статьи/Java/Spring/Hibernate/Оптимистические и пессимистические блокировки на примере Hibernate (JPA).md",
     "Статьи/Java/JVM, JRE, JDK.jpg",
-    "Статьи/Java/Garbage Collection in Java – What is GC and How it Works in the JVM.md",
-    "Статьи/Java/Варим байткод на кухне JVM.md",
     "Книги/Эрик_Эванс_Предметно_ориентированное.pdf",
     "Статьи/Java/Spring/How to Catch Deserialization Errors in Spring-Kafka.md",
     "Статьи/Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
@@ -227,7 +236,6 @@
     "Статьи/БД/Нормальные формы/2. Вторая нормальная форма.md",
     "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Статьи/БД/Ключевые аспекты при выборе базы данных для вашего приложения.md",
-    "Собес/core.md",
     "Статьи/Java/Spring/Spring потрошитель.md",
     "Статьи/Java/Spring/Hibernate/Transaction Propagation and Isolation in Spring @Transactional.md",
     "Статьи/Паттерны ООП/Паттерны проектирования.md",
@@ -237,10 +245,6 @@
     "Статьи/Java/Spring/Hibernate/Overview of JPAHibernate Cascade Types.md",
     "Статьи/Java/Spring/Cascade Types",
     "Статьи/Java/Spring/Cascade Types/3.9. CascadeType.SAVE_UPDATE.md",
-    "Статьи/Java/Spring/Cascade Types/3.8. CascadeType.REPLICATE.md",
-    "Статьи/Java/Spring/Cascade Types/3.7. CascadeType.REFRESH.md",
-    "Статьи/Java/Spring/Cascade Types/3.6. CascadeType.LOCK.md",
-    "Статьи/Java/Spring/Cascade Types/3.5. CascadeType.DETACH.md",
     "Книги/Gets_-_Java_Concurrencyna_praktike_2020.pdf",
     "Статьи/БД/Индексы",
     "Clippings",
@@ -253,10 +257,6 @@
     "Собес/done.png",
     "Собес/images/SQL/row_number-sql-rank-function.png",
     "Собес/images/SQL/row_number-example.png",
-    "Собес/images/SQL/ranksql-rank-function.png",
-    "Собес/images/SQL/output-of-rank-function-for-similar-values.png",
-    "Собес/images/SQL/output-of-ntilen-function-with-partition.png",
-    "Собес/images/SQL/output-of-dense_rank-function.png",
-    "Собес/images/SQL/ntilen-sql-rank-function.png"
+    "Собес/images/SQL/ranksql-rank-function.png"
   ]
 }
