@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Архитектура виртуальной машины Java объяснение для начинающих.md",
+                "file": "Статьи/Java/Архитектура виртуальной машины Java объяснение для начинающих.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd55229dc740b2c0",
+  "active": "99f673925b762a84",
   "lastOpenFiles": [
     "1_toxRItfjzwJZrnEag3NJ-A.webp",
     "1_tYgnIx00WSpzZ_3SGA50pg.webp",
@@ -217,7 +217,7 @@
     "1_QoeX36beLMpDNJjfuqthyw.webp",
     "1_eKCDVZet4d2MWlf79sKIwQ.webp",
     "Собес/jvm.md",
-    "Clippings/Архитектура виртуальной машины Java объяснение для начинающих.md",
+    "Статьи/Java/Архитектура виртуальной машины Java объяснение для начинающих.md",
     "Собес/core.md",
     "Статьи/Java/Варим байткод на кухне JVM.md",
     "Статьи/Java/Garbage Collection in Java – What is GC and How it Works in the JVM.md",
