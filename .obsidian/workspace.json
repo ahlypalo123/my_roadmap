@@ -41,12 +41,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Clippings/Паттерны кеширования проблемы, решения, практические рекомендации.md",
-                "bFile": "Clippings/Паттерны кеширования проблемы, решения, практические рекомендации.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Паттерны кеширования проблемы, решения, практические рекомендации"
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -209,9 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd55229dc740b2c0",
+  "active": "99f673925b762a84",
   "lastOpenFiles": [
-    "Clippings/Паттерны кеширования проблемы, решения, практические рекомендации.md",
+    "Статьи/Паттерны кеширования проблемы, решения, практические рекомендации.md",
     "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Книги/Эрик_Эванс_Предметно_ориентированное.pdf",
     "Статьи/БД/Нормальные формы/2. Вторая нормальная форма.md",
