@@ -8,47 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de1eb2730ae56dff",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Статьи/Java/Варим байткод на кухне JVM.md",
-                "bFile": "Статьи/Java/Варим байткод на кухне JVM.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Варим байткод на кухне JVM"
-            }
-          },
-          {
-            "id": "dbc81ad0b481fe93",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
             "id": "dd55229dc740b2c0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Книги/Эрик_Эванс_Предметно_ориентированное.pdf"
+                "file": "Статьи/Кеширование/Паттерны кеширования проблемы, решения, практические рекомендации.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Эрик_Эванс_Предметно_ориентированное"
+              "icon": "lucide-file",
+              "title": "Паттерны кеширования проблемы, решения, практические рекомендации"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,9 +182,16 @@
   },
   "active": "dd55229dc740b2c0",
   "lastOpenFiles": [
-    "Статьи/Паттерны кеширования проблемы, решения, практические рекомендации.md",
-    "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
+    "Статьи/Кеширование/Паттерны кеширования/3. Write-Through.md",
+    "Статьи/Кеширование/Паттерны кеширования проблемы, решения, практические рекомендации.md",
+    "Статьи/Кеширование/Паттерны кеширования",
+    "Статьи/Кеширование",
+    "Статьи/Кеширование/Паттерны кеширования/5. Write-Around.md",
+    "Статьи/Кеширование/Паттерны кеширования/4. Write-Back.md",
+    "Статьи/Кеширование/Паттерны кеширования/2. Read-Through.md",
+    "Статьи/Кеширование/Паттерны кеширования/1. Cache-Aside.md",
     "Книги/Эрик_Эванс_Предметно_ориентированное.pdf",
+    "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Статьи/БД/Нормальные формы/2. Вторая нормальная форма.md",
     "Статьи/БД/Нормальные формы/3. Третья нормальная форма.md",
     "Статьи/Java/Архитектура виртуальной машины Java объяснение для начинающих.md",
@@ -237,19 +217,12 @@
     "Статьи/БД/Нормализация отношений. Шесть нормальных форм.md",
     "Статьи/БД/Ключевые аспекты при выборе базы данных для вашего приложения.md",
     "Статьи/Java/Spring/Spring потрошитель.md",
-    "Статьи/Java/Spring/Hibernate/Transaction Propagation and Isolation in Spring @Transactional.md",
-    "Статьи/Паттерны ООП/Паттерны проектирования.md",
-    "Статьи/Паттерны ООП/Структурные паттерны проектирования.md",
-    "Статьи/Паттерны ООП/Порождающие паттерны проектирования.md",
-    "Статьи/Паттерны ООП/Поведенческие паттерны проектирования.md",
     "Статьи/Java/Spring/Cascade Types",
     "Книги/Gets_-_Java_Concurrencyna_praktike_2020.pdf",
     "Статьи/БД/Индексы",
     "Clippings",
     "Книги/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
     "Safe Publication",
-    "Статьи/Java/JMM",
-    "Статьи",
     "Статьи/Java/Collection API.png",
     "Untitled.canvas",
     "Собес/done.png",
