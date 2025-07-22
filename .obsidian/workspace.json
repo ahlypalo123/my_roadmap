@@ -39,14 +39,12 @@
             "id": "dd55229dc740b2c0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "pdf",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Книги/Эрик_Эванс_Предметно_ориентированное.pdf"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file-text",
+              "title": "Эрик_Эванс_Предметно_ориентированное"
             }
           }
         ],
@@ -209,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f673925b762a84",
+  "active": "dd55229dc740b2c0",
   "lastOpenFiles": [
     "Статьи/Паттерны кеширования проблемы, решения, практические рекомендации.md",
     "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
