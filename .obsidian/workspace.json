@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/БД/Шардирование баз данных и проектирование систем.md",
-                "mode": "source",
+                "file": "Статьи/БД/Индексы/6. LSM-дерево.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шардирование баз данных и проектирование систем"
+              "title": "6. LSM-дерево"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f673925b762a84",
+  "active": "dd55229dc740b2c0",
   "lastOpenFiles": [
-    "Статьи/БД/Путеводитель по репликации баз данных.md",
+    "Статьи/БД/Как устроено индексирование баз данных.md",
     "Статьи/БД/Шардирование баз данных и проектирование систем.md",
+    "Статьи/БД/Путеводитель по репликации баз данных.md",
     "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Книги/Эрик_Эванс_Предметно_ориентированное.pdf",
     "Собес/kafka.md",
@@ -217,7 +218,6 @@
     "Статьи/Java/Spring/Hibernate/Оптимистические и пессимистические блокировки на примере Hibernate (JPA).md",
     "Статьи/Java/JVM, JRE, JDK.jpg",
     "Статьи/Java/Spring/How to Catch Deserialization Errors in Spring-Kafka.md",
-    "Статьи/Kafka/Kafka за 20 минут. Ментальная модель и как с ней работать.md",
     "Статьи/Java/Spring/Cascade Types",
     "Книги/Gets_-_Java_Concurrencyna_praktike_2020.pdf",
     "Статьи/БД/Индексы",
