@@ -11,14 +11,12 @@
             "id": "dd55229dc740b2c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Статьи/Java/Spring/Cascade Types/3.8. CascadeType.REPLICATE.md",
-                "mode": "source",
-                "source": false
+                "file": "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf"
               },
-              "icon": "lucide-file",
-              "title": "3.8. CascadeType.REPLICATE"
+              "icon": "lucide-file-text",
+              "title": "kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie"
             }
           }
         ]
@@ -182,11 +180,19 @@
   },
   "active": "dd55229dc740b2c0",
   "lastOpenFiles": [
+    "Книги/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
+    "Статьи/БД/Нормальные формы/4. Четвертая нормальная форма.md",
+    "Книги/Kompyuternye_seti_Printsipy_tekhnologii_protokoly_Yubileynoe_izdanie_dop_i_ispr.pdf",
+    "Книги/Не подтвержден 688119.crdownload",
+    "Статьи/БД/Нормальные формы/3. Нормальная форма Бойса-Кодда (НФБК) (частная форма третьей нормальной формы).md",
+    "Статьи/БД/Нормальные формы/2. Вторая нормальная форма.md",
+    "Статьи/БД/Нормальные формы/5. Пятая нормальная форма.md",
+    "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
+    "Статьи/Java/Spring/Cascade Types/3.8. CascadeType.REPLICATE.md",
     "Статьи/БД/Индексы/6. LSM-дерево.md",
     "Статьи/БД/Как устроено индексирование баз данных.md",
     "Статьи/БД/Шардирование баз данных и проектирование систем.md",
     "Статьи/БД/Путеводитель по репликации баз данных.md",
-    "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Книги/Эрик_Эванс_Предметно_ориентированное.pdf",
     "Собес/kafka.md",
     "Статьи/Паттерны ООП/Структурные/Декоратор.md",
@@ -201,7 +207,6 @@
     "Статьи/БД/Кеширование/Паттерны кеширования",
     "Статьи/БД/Кеширование",
     "Статьи/БД/Кеширование/Паттерны кеширования/2. Read-Through.md",
-    "Статьи/БД/Нормальные формы/2. Вторая нормальная форма.md",
     "Статьи/БД/Нормальные формы/3. Третья нормальная форма.md",
     "Статьи/Java/Архитектура виртуальной машины Java объяснение для начинающих.md",
     "1_toxRItfjzwJZrnEag3NJ-A.webp",
@@ -212,18 +217,11 @@
     "Собес/jvm.md",
     "Собес/core.md",
     "Статьи/Java/Варим байткод на кухне JVM.md",
-    "Статьи/Java/Garbage Collection in Java – What is GC and How it Works in the JVM.md",
-    "Статьи/Java/Управление памятью Java.md",
-    "Статьи/Java/Class Loader.md",
-    "conflict-files-obsidian-git.md",
-    "Статьи/Java/Spring/Hibernate/Оптимистические и пессимистические блокировки на примере Hibernate (JPA).md",
     "Статьи/Java/JVM, JRE, JDK.jpg",
     "Статьи/Java/Spring/Cascade Types",
     "Книги/Gets_-_Java_Concurrencyna_praktike_2020.pdf",
     "Статьи/БД/Индексы",
     "Clippings",
-    "Книги/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
-    "Safe Publication",
     "Статьи/Java/Collection API.png",
     "Untitled.canvas",
     "Собес/done.png",
