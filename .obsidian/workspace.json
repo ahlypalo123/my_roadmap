@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/CS/Модель OSI.md",
-                "mode": "preview",
+                "file": "Статьи/БД/Что такое merge join, hash join и nested loop с примером на PostgreSQL.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модель OSI"
+              "title": "Что такое merge join, hash join и nested loop с примером на PostgreSQL"
             }
           }
         ],
@@ -207,13 +207,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87b98378627ec765",
+  "active": "99f673925b762a84",
   "lastOpenFiles": [
     "Статьи/Java/Spring/Что нового в Spring 6 и Spring Boot 3.md",
+    "Статьи/БД/Что такое merge join, hash join и nested loop с примером на PostgreSQL.md",
+    "Clippings",
+    "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Статьи/CS/Модель OSI.md",
     "Статьи/CS/Pasted image 20250801094359.jpg",
     "Статьи/Java/Различия версий Java.md",
-    "Книги/kleppman_m_vysokonagruzhennye_prilozheniya_programmirovanie.pdf",
     "Книги/Richardson_Mikroservisy-Patterny-razrabotki-i-refaktoringa.665236.pdf",
     "Статьи/БД/Нормальные формы/4. Четвертая нормальная форма.md",
     "Книги/Kompyuternye_seti_Printsipy_tekhnologii_protokoly_Yubileynoe_izdanie_dop_i_ispr.pdf",
@@ -247,11 +249,9 @@
     "1_I3PkT6Ku7yo6DrTUK4DzwA.webp",
     "1_QoeX36beLMpDNJjfuqthyw.webp",
     "1_eKCDVZet4d2MWlf79sKIwQ.webp",
-    "Собес/jvm.md",
     "Статьи/Java/JVM, JRE, JDK.jpg",
     "Статьи/Java/Spring/Cascade Types",
     "Книги/Gets_-_Java_Concurrencyna_praktike_2020.pdf",
-    "Статьи/БД/Индексы",
     "Статьи/Java/Collection API.png",
     "Untitled.canvas",
     "Собес/done.png",
